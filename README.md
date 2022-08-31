@@ -7,15 +7,19 @@ The posts are written in Markdown that is parsed by Pandoc, with the Pandoc AST 
 It also generates an RSS feed for people that are into that.
 
 # Steps to Install 
-1. ```shell
+ 
+1. 
+```
 yarn install
 ```
 
-2. ```shell
+2. 
+```
 yarn posts
 ```
 
-3. ```shell
+3.
+ ```
 yarn dev
 ```
 
